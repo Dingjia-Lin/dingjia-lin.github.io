@@ -22,7 +22,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "L"
 
 ############################
 ## Basic Info
@@ -127,7 +127,7 @@ directions = "Midorigaoka 6th Building, Second Floor"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "erawijantaript"
+# twitter = "erawijantaript"
 
 ############################
 ## Regional Settings
