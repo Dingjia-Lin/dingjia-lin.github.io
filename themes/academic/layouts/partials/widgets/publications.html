@@ -25,7 +25,8 @@
             {{- end -}}
 
           {{- with .organization -}}
-              <div class="">{{ . | markdownify | emojify}}</div>
+              {{/*<div class="">{{ . | markdownify | emojify}}</div>*/}}
+              <div class="card-subtitle my-0 article-metadata">{{ . | markdownify | emojify}}</div>
           {{- end -}}
 
         </div>

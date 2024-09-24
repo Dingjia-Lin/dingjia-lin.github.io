@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  publication_name = "[C1] 2024 International Symposium on Wireless Communication Systems (ISWCS), Rio de Janeiro, Brazil, 2024, pp. 1-6, doi: 10.1109/ISWCS61526.2024.10639114"
+  publication_name = "[C1] Uplink Data Rate Maximization with Channel Uncertainties in BackCom NOMA System"
   publication_url = ""
-  writer_names = "D. Lin, S. Al-Basit, K. Wang and **Z. Ding**"
-  organization = "Uplink Data Rate Maximization with Channel Uncertainties in BackCom NOMA System"
+  writer_names = "**D. Lin**, S. Al-Basit, K. Wang and Z. Ding"
+  organization = "2024 International Symposium on Wireless Communication Systems (ISWCS), Rio de Janeiro, Brazil, 2024, pp. 1-6, doi: [10.1109/ISWCS61526.2024.10639114](https://dx.doi.org/10.1109/ISWCS61526.2024.10639114)"
 
 +++
