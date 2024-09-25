@@ -26,7 +26,7 @@ interests:
 - Convex optimization
 - Non-convex optimization
 - Matching Theory
-- Cognitive radio
+- Cognitive Radio
 - Fluid Antenna System
 
 education:
