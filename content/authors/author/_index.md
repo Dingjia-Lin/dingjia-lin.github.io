@@ -32,7 +32,7 @@ interests:
 education:
   courses:
   - course: Doctor of Philosophy (Expected)
-    institution: University of Manchester, UK, Supervisor - Prof. Zhiguo Ding (FIEEE), Department of Electrical and Electronic Engineering
+    institution: University of Manchester, UK, Supervisor - [Prof. Zhiguo Ding](https://personalpages.manchester.ac.uk/staff/zhiguo.ding/pages/research.html) (FIEEE), Department of Electrical and Electronic Engineering
     year: 2021-Present
     
   - course: Master of Science
