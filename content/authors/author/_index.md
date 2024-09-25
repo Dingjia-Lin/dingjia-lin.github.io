@@ -21,10 +21,10 @@ organizations:
 bio: <>
 
 interests:
-- Non-orthogonal multiple access
+- Non-Orthogonal Multiple Access
 - Backscatter Communication
-- Convex optimization
-- Non-convex optimization
+- Convex Optimization
+- Non-convex Optimization
 - Matching Theory
 - Cognitive Radio
 - Fluid Antenna System
