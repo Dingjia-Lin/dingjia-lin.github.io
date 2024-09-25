@@ -87,7 +87,7 @@ email: ""
 ---
 
 
-Dingjia (Brian) Lin (He, His, Him) is currently a PhD candidate in the Department of Electrical and Electronic Engineering at the University of Manchester. He holds two Master’s degrees, one in Mobile Communication and Smart Networking from the [University of Southampton](https://www.southampton.ac.uk/) and another in Wireless Communication Systems from the [University of Sheffield](https://www.sheffield.ac.uk/). He obtained his Bachelor’s degree in Communication Engineering from [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
+Dingjia (Brian) Lin (He, His, Him) is currently a PhD candidate in the Department of Electrical and Electronic Engineering at the University of Manchester. He holds two Master’s degrees, one in Mobile Communication and Smart Networking from [University of Southampton](https://www.southampton.ac.uk/) and another in Wireless Communication Systems from [University of Sheffield](https://www.sheffield.ac.uk/). He obtained his Bachelor’s degree in Communication Engineering from [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
 
 His research interests include non-orthogonal multiple access (NOMA), backscatter communication (BackCom), convex and non-convex optimization, cognitive radio, and fluid antenna systems. Dingjia has published multiple papers in prestigious journals and conferences, focusing on topics such as energy-efficiency maximization, beamforming, and uplink data rate optimization in NOMA systems.
 
