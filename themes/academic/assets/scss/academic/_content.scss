@@ -106,7 +106,8 @@ article .article-metadata {
 }
 
 .article-metadata a {
-  color: rgba(0,0,0,.54);
+  /*color: rgba(0,0,0,.54);*/
+  color: $sta-primary;
 }
 
 .dark .article-metadata a {
