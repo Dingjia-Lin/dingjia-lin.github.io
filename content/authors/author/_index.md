@@ -24,7 +24,7 @@ interests:
 - Non-Orthogonal Multiple Access
 - Backscatter Communication
 - Convex Optimization
-- Non-convex Optimization
+- Non-Convex Optimization
 - Matching Theory
 - Cognitive Radio
 - Fluid Antenna System
