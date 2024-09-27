@@ -19,16 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "IEEE Open Journal of the Communications Society, vol. 5, pp. 526-539, 2024, doi: [10.1109/OJCOMS.2023.3349277](https://dx.doi.org/10.1109/OJCOMS.2023.3349277)"
-  publication_url = ""
-  writer_names = "**D. Lin**, K. Wang, T. Wang and Z. Ding"
-  publication_name = "[J3] Uplink Data Rate Maximization in Multi-Cell BackCom NOMA Systems"
-
-[[item]]
   organization = "IET Signal Processing, 2024, 4107801, 12 pages, doi: [10.1049/2024/4107801](https://dx.doi.org/10.1049/2024/4107801)"
   publication_url = ""
   writer_names = "**D. Lin**, T. Wang, K. Wang and Z. Ding"
-  publication_name = "[J2] Energy-Efficiency Maximization in Backscatter Communication Based Non-Orthogonal Multiple Access System: Dinkelbach and Successive Convex Approximation Approaches"
+  publication_name = "[J3] Energy-Efficiency Maximization in Backscatter Communication Based Non-Orthogonal Multiple Access System: Dinkelbach and Successive Convex Approximation Approaches"
+
+[[item]]
+  organization = "IEEE Open Journal of the Communications Society, vol. 5, pp. 526-539, 2024, doi: [10.1109/OJCOMS.2023.3349277](https://dx.doi.org/10.1109/OJCOMS.2023.3349277)"
+  publication_url = ""
+  writer_names = "**D. Lin**, K. Wang, T. Wang and Z. Ding"
+  publication_name = "[J2] Uplink Data Rate Maximization in Multi-Cell BackCom NOMA Systems"
 
 [[item]]
   organization = "IEEE Wireless Communications Letters, vol. 12, no. 9, pp. 1494-1498, Sept. 2023, doi: [10.1109/LWC.2023.3279668](https://dx.doi.org/10.1109/LWC.2023.3279668)"
