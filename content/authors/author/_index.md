@@ -21,13 +21,13 @@ organizations:
 bio: <>
 
 interests:
-- Non-Orthogonal Multiple Access
-- Backscatter Communication
+- Non-Orthogonal Multiple Access (NOMA)
+- Backscatter Communication (BackCom)
 - Convex Optimization
 - Non-Convex Optimization
 - Matching Theory
 - Cognitive Radio
-- Fluid Antenna System
+- Fluid Antenna System (FAS)
 
 education:
   courses:
