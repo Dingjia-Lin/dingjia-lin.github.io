@@ -91,5 +91,5 @@ Dingjia (Brian) Lin (He, His, Him) is currently a PhD candidate in the Departmen
 
 His research interests include non-orthogonal multiple access (NOMA), backscatter communication (BackCom), convex and non-convex optimization, cognitive radio, and fluid antenna systems. Dingjia has published multiple papers in some journals and conferences, focusing on topics such as energy efficiency maximization, beamforming, and uplink data rate optimization in NOMA systems.
 
-In addition to his academic work, Dingjia is skilled in Python, MATLAB, and LaTeX, and is fluent in both English and Chinese. Outside of research, he enjoys photography, reading, and astronomical observation.
+In addition to his academic work, Dingjia is skilled in Python, MATLAB, and LaTeX, and is fluent in both English and Chinese (Mandarin). Outside of research, he enjoys photography, reading, and astronomical observation.
 
