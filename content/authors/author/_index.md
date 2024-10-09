@@ -44,7 +44,7 @@ education:
     year: 2017-2018
 
   - course: Bachelor of Engineering
-    institution: Chongqing University of Posts and Telecommunications, China, College of Communication and Information Engineering Communication Engineering, Major in Communication Engineering 
+    institution: Chongqing University of Posts and Telecommunications, China, College of Communication and Information Engineering, Communication Engineering
     year: 2013-2017
 
 # Social/Academic Networking
