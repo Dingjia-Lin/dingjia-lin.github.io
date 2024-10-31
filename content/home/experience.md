@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "PhD"
   company = "University of Manchester"
-  company_url = ""
+  company_url = "https://www.manchester.ac.uk/"
   location = "UK"
   date_start = "2021-03-01"
   date_end = "2024-09-01"
