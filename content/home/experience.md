@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "King's College London"
   company_url = ""
   location = "UK"
-  date_start = "2021-11-05"
+  date_start = "2024-11-05"
   description = """Research on the optimization process edge computing in the cell-free and massive MIMO networks."""
 
 [[experience]]
