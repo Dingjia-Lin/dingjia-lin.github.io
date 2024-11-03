@@ -28,6 +28,9 @@ interests:
 - Matching Theory
 - Cognitive Radio
 - Fluid Antenna System (FAS)
+- Cell-Free
+- Massive MIMO
+- Edge Computing
 
 education:
   courses:
