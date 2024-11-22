@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Manchester, UK
-  url: "https://www.manchester.ac.uk/"
+- name: King's College London, UK
+  url: "https://www.kcl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: <>
