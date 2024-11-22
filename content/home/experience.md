@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Associate"
   company = "King's College London"
-  company_url = ""
+  company_url = "https://www.kcl.ac.uk/"
   location = "UK"
   date_start = "2024-11-05"
   description = """Research on the optimization process edge computing in the cell-free and massive MIMO networks."""
