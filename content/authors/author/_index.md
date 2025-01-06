@@ -36,7 +36,7 @@ education:
   courses:
   - course: Doctor of Philosophy (Expected)
     institution: University of Manchester, UK, Supervised by Prof. Zhiguo Ding (FIEEE), Department of Electrical and Electronic Engineering
-    year: 2021-Present
+    year: 2021-2025
     
   - course: Master of Science
     institution: University of Southampton, UK, School of Electronics and Computer Science, MSc Mobile Communication and Smart Networking
