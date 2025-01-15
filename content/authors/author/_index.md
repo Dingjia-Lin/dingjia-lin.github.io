@@ -57,7 +57,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:brianinuk@outlook.com  # mail
+  link: mailto:dingjia.lin@ieee.org  # mail
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/erawijantaript
