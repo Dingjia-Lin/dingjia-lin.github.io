@@ -64,9 +64,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=8VWZGbAAAAAJ&hl=en
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Dingjia-Lin/research
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Dingjia-Lin/research
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/erawijantari
