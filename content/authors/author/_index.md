@@ -34,7 +34,7 @@ interests:
 
 education:
   courses:
-  - course: Doctor of Philosophy (Expected)
+  - course: Doctor of Philosophy
     institution: University of Manchester, UK, Supervised by Prof. Zhiguo Ding (FIEEE), Department of Electrical and Electronic Engineering
     year: 2021-2025
     
