@@ -70,12 +70,15 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/erawijantari
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/dingjia-lin-8925041b9/
+- icon: ieee
+  icon_pack: ai
+  link: https://ieeexplore.ieee.org/author/37089945675
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-6474-4154
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dingjia-lin-8925041b9/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
