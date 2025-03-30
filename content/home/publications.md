@@ -17,7 +17,6 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[item]]
   organization = "IET Signal Processing, 2024, 4107801, 12 pages, doi: [10.1049/2024/4107801](https://dx.doi.org/10.1049/2024/4107801)"
   publication_url = ""
