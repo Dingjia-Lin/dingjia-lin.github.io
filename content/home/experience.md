@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.kcl.ac.uk/"
   location = "UK"
   date_start = "2024-11-05"
+  date_end = "2025-03-31"
   description = """Research on the optimization process edge computing in the cell-free and massive MIMO networks."""
 
 [[experience]]
