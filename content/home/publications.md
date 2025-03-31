@@ -18,6 +18,11 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+organization = "IEEE Transactions on Vehicular Technology"
+publication_url = ""
+writer_names = "**D. Lin**, SM Al-Basit, K. Wang and Z. Ding"
+publication_name = "[J4] EE Maximization with Imperfect CSI at Transmitter in BackCom NOMA System"
 
 [[item]]
 organization = "IET Signal Processing, 2024, 4107801, 12 pages, doi: [10.1049/2024/4107801](https://dx.doi.org/10.1049/2024/4107801)"
