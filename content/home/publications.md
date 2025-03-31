@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-organization = "IEEE Transactions on Vehicular Technology"
+organization = "IEEE Transactions on Vehicular Technology, Accepted"
 publication_url = ""
 writer_names = "**D. Lin**, SM Al-Basit, K. Wang and Z. Ding"
 publication_name = "[J4] EE Maximization with Imperfect CSI at Transmitter in BackCom NOMA System"
