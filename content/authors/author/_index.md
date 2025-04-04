@@ -32,6 +32,7 @@ interests:
 - Massive MIMO
 - Edge Computing
 - Visible Light Communication (VLC)
+- Reconfigurable Intelligent Surfaces (RIS)
 
 education:
   courses:
