@@ -31,6 +31,7 @@ interests:
 - Cell-Free
 - Massive MIMO
 - Edge Computing
+- Visible Light Communication (VLC)
 
 education:
   courses:
