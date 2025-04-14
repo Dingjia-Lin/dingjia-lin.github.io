@@ -97,7 +97,7 @@ email: ""
 #- Visitors
 ---
 
-Dingjia (Brian) Lin (He/Him) is a Research Associate at [King’s College London](https://www.kcl.ac.uk/), UK, focusing on cell-free massive MIMO, mobile edge computing (MEC), and convex and non-convex optimization.
+Dingjia (Brian) Lin (Dr., He/Him) is a Research Associate at [King’s College London](https://www.kcl.ac.uk/), UK, focusing on cell-free massive MIMO, mobile edge computing (MEC), and convex and non-convex optimization.
 
 He holds a PhD in Electrical and Electronic Engineering from the [University of Manchester](https://www.manchester.ac.uk/), UK. Additionally, he earned two Master’s degrees — one in Mobile Communication and Smart Networking from the [University of Southampton](https://www.southampton.ac.uk/), UK, and another in Electronic and Electrical Engineering from the [University of Sheffield](https://www.sheffield.ac.uk/), UK — as well as a Bachelor’s degree in Communication Engineering from [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/), P. R. China.
 
