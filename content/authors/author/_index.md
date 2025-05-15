@@ -33,6 +33,8 @@ interests:
 - Edge Computing
 - Visible Light Communication (VLC)
 - Reconfigurable Intelligent Surfaces (RIS)
+- Pinching Antenna System
+- Integrated Sensing and Communications (ISaC)
 
 education:
   courses:
