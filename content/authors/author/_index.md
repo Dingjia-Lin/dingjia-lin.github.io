@@ -34,7 +34,7 @@ interests:
 - Visible Light Communication (VLC)
 - Reconfigurable Intelligent Surfaces (RIS)
 - Pinching Antenna System
-- Integrated Sensing and Communications (ISaC)
+- Integrated Sensing and Communications (ISAC)
 
 education:
   courses:
