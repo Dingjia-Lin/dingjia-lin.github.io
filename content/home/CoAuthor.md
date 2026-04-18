@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-organization = "IEEE Transactions on Vehicular Technology, vol. 74, no. 8, pp. 12727-12739, Aug. 2025, doi: [10.1109/TVT.2025.3557244](https://dx.doi.org/10.1109/TVT.2025.3557244)"
+organization = "IEEE Wireless Communications Letters (Early Access), doi: [10.1109/LWC.2026.3684964](https://dx.doi.org/10.1109/LWC.2026.3684964)"
 publication_url = ""
-writer_names = "**D. Lin**, SM Al-Basit, K. Wang and Z. Ding"
-publication_name = "[J4] EE Maximization with Imperfect CSI at Transmitter in BackCom NOMA System"
+writer_names = "X. You, **D. Lin**, Y. Liu, X. Li, P. Wang and W. Huangfu"
+publication_name = "[T1] UAV-Enabled Multi-Tier Mobile Edge Computing for Heterogeneous Dual-Source Multi-Modal Tasks"
 
 +++
